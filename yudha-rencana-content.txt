@@ -3,7 +3,9 @@ RENCANA BELAJAR YUDHA
 - Memahami Javasript
   * ES 6
   * framework java scirpt
-- Struktur data dasar
+   ^ angular
+   ^ react
 - PHP framework
+ ^ laravel
 - Interview
 - Vlog
