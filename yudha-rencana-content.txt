@@ -4,6 +4,7 @@ RENCANA BELAJAR YUDHA
   * ES 6
   * framework java scirpt
    ^ vue
+   ^ ReactJS
 - Struktur data dasar
 - PHP framework
   ^ Laravel
