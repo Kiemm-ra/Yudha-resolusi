@@ -1,6 +1,8 @@
 RENCANA BELAJAR YUDHA
 
 - Memahami Javasript
+  * ES 6
+  * framework java scirpt
 - PHP framework
 - Interview
 - Vlog
